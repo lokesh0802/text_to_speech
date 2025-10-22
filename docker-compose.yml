@@ -1,0 +1,8 @@
+
+services:
+  opentts:
+    build: .
+    container_name: opentts-espeak-ng
+    ports:
+      - "5500:5500"
+    restart: unless-stopped
