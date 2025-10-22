@@ -17,10 +17,9 @@ project-root/
 - ✅ React (Frontend)
 - 🎤 OpenTTS (Backend TTS engine)
 - 🐳 Docker (to run OpenTTS easily)
-
 ## 🎥 Demo Video
 
-[![Watch the demo](https://img.youtube.com/vi/gt9z7pBwBTw/maxresdefault.jpg)](https://youtu.be/gt9z7pBwBTw)
+[![Watch the demo](https://img.youtube.com/vi/yj9uAOTROCw/maxresdefault.jpg)](https://youtu.be/yj9uAOTROCw)
 
 
 ## 🚀 Getting Started
