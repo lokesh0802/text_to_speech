@@ -14,6 +14,10 @@ project-root/
 - 🎤 OpenTTS (Backend TTS engine)
 - 🐳 Docker (to run OpenTTS easily)
 
+## 🎥 Demo Video
+
+[![Watch the demo](https://img.youtube.com/vi/gt9z7pBwBTw/maxresdefault.jpg)](https://youtu.be/gt9z7pBwBTw)
+
 
 ## 🚀 Getting Started
 
